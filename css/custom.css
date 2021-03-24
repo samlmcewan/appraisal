@@ -21,3 +21,21 @@ footer ul li a {
 .footer-social-icon {
     padding: 0.25rem;
 }
+
+/* .logo-container-footer {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
+
+.border-top-footer {
+    border-top: 2px solid white;
+} */
+
+.nav-container {
+    justify-content: space-between;
+}
+
+.logo-border {
+    /* border-left: 2px solid #437099; */
+}
