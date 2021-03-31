@@ -62,3 +62,12 @@ footer {
     background-color: #eeeeee;
     color: #555555;
 }
+
+
+nav {
+    font-size: 16px;
+  }
+
+.bi {
+    font-size: 1.3rem;
+  }
